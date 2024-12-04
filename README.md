@@ -1,5 +1,5 @@
 # 💫 About Me:
-• Currently working on: Optimizing data pipelines and building scalable, cloud-based solutions.
+• Currently working on: Optimizing data pipelines and building scalable, cloud-based solutions.</br>
 • Looking to collaborate on: Open-source projects in big data and ML pipelines.
 • Currently learning: Apache Airflow and Kubernetes for containerized workflows.
 • Ask me about: Data engineering, AWS, GCP, and ETL pipelines.
