@@ -1,5 +1,10 @@
 # 💫 About Me:
-	•	I’m currently working on: Data pipeline optimization and building scalable, cloud-based data solutions to streamline analytics workflows.<br>	•	I’m looking to collaborate on: Open-source projects related to big data, machine learning pipelines, or data visualization tools.<br>	•	I’m looking for help with: Expanding my expertise in advanced cloud-based machine learning platforms and automating end-to-end MLOps processes.<br>	•	I’m currently learning: Advanced orchestration tools like Apache Airflow, and diving deeper into Kubernetes for containerized data workflows.<br>	•	Ask me about: Data engineering strategies, cloud technologies like AWS and GCP, or tips on creating efficient ETL pipelines.<br>	•	Fun fact about me: I’m an avid manga reader and a chess enthusiast—always up for a great story or a challenging game!
+•I’m currently working on: Data pipeline optimization and building scalable, cloud-based data solutions to streamline analytics workflows.<br>
+•I’m looking to collaborate on: Open-source projects related to big data, machine learning pipelines, or data visualization tools.<br>
+•I’m looking for help with: Expanding my expertise in advanced cloud-based machine learning platforms and automating end-to-end MLOps processes.<br>
+•I’m currently learning: Advanced orchestration tools like Apache Airflow, and diving deeper into Kubernetes for containerized data workflows.<br>
+•Ask me about: Data engineering strategies, cloud technologies like AWS and GCP, or tips on creating efficient ETL pipelines.<br>
+•Fun fact about me: I’m an avid manga reader and a chess enthusiast—always up for a great story or a challenging game!
 
 
 # 💻 Tech Stack:
