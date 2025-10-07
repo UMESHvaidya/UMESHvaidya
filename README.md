@@ -1,5 +1,5 @@
 # 💫 About Me:
-• Currently working on: Building advanced Retrieval-Augmented Generation (RAG) services and scalable Generative AI applications  that &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; blend LLMs with real-world data sources.</br>
+• Currently working on: Building advanced Retrieval-Augmented Generation (RAG) services and scalable Generative AI applications  that blend LLMs with real-world data sources.</br>
 • Looking to collaborate on: Open-source projects in LLMOps, AI agents, and GenAI-powered data systems.</br>
 • Currently learning: Deep diving into LangChain, LlamaIndex, and vector databases like Pinecone, Weaviate for context-aware AI systems.</br>
 • Ask me about: RAG architectures, prompt engineering, model fine-tuning, or deploying GenAI services on AWS or GCP.</br>
