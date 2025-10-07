@@ -69,6 +69,7 @@ I love exploring the intersection of **creativity and computation** — whether 
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=UMESHvaidya&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)  
@@ -76,5 +77,6 @@ I love exploring the intersection of **creativity and computation** — whether 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UMESHvaidya&theme=solarized-dark&hide_border=false&layout=compact)
 
 ---
+-->
 
 <!-- Feel free to connect with me on LinkedIn or Twitter -->
