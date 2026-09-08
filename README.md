@@ -1,82 +1,56 @@
-<!-- GitHub Profile README -->
+<h1 align="center">Hi, I'm Umesh Vaidya 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Umesh Vaidya</h1>
-<!-- <h3 align="center">Building scalable Generative AI systems with real-world data</h3> -->
----
+<p align="center">
+  Generative AI & Data Engineering enthusiast building practical, data-driven systems.
+</p>
 
-### 🚀 Currently Working On  
-- ⚙️ Building advanced **Retrieval-Augmented Generation (RAG)** pipelines  
-- 🤖 Scaling **Generative AI** applications using **LLMs + real-time data**  
-- ☁️ Deploying AI services on **AWS** and **GCP**
+<p align="center">
+  <a href="https://github.com/UMESHvaidya/Leetcode_Solutions">LeetCode Solutions</a>
+</p>
 
-### 🧑‍💻 Previously Worked As  
-- 🔧 A **Data Engineer** focused on big data pipelines, real-time processing, and distributed systems  
-- 📊 Hands-on with **Hadoop, Spark, Hive, Kafka**, and **NoSQL databases**
+## About me
 
-### 🤝 Looking to Collaborate On  
-- 🛠️ **Open-source projects** in **LLMOps**, **AI agents**, and **context-aware GenAI**  
-- 🔍 Vector search, prompt orchestration, or production-ready AI tools
+- Building Retrieval-Augmented Generation (RAG) pipelines and LLM-powered applications.
+- Exploring AI agents, vector search, prompt orchestration, and production-ready GenAI workflows.
+- Bringing data-engineering experience across distributed processing and real-time data systems.
+- Strengthening problem-solving skills through regular LeetCode practice in Python and Java.
 
-### 📚 Currently Learning  
-- 🧠 Deep diving into:  
-  - **LangChain**, **LangGraph**, **LlamaIndex**  
-  - Vector DBs: **ChromaDB**, **Weaviate**
-  - Best practices in **prompt engineering** & **LLM fine-tuning**
+## Current focus
 
-### 💬 Ask Me About  
-- 🔧 RAG architectures & GenAI pipelines  
-- ✍️ Prompt engineering techniques  
-- 📦 Model tuning & deployment (HF, AWS Sagemaker, GCP Vertex)
+- Reliable RAG systems with real-world data
+- LLMOps, evaluation, and deployment workflows
+- Vector databases and retrieval quality
+- Algorithms and data structures
 
-### 🎨 Fun Fact  
-I love exploring the intersection of **creativity and computation** — whether it’s  
-🎨 AI-generated art • ♟️ Chess openings • 📖 Crafting Manga storylines
+## Featured project
 
----
+### [LeetCode Solutions](https://github.com/UMESHvaidya/Leetcode_Solutions)
 
-## 🧠 GenAI & MLOps Tech Stack:
+An actively growing collection of LeetCode solutions in Python and Java. It includes a searchable problem index, local run instructions, and concise standalone implementations.
+
+## Tech I work with
+
+**Generative AI & backend**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4D4D4D?style=for-the-badge&logo=data&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-0A2540?style=for-the-badge&logo=pinecone&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-%230066cc.svg?style=for-the-badge&logo=weaviate&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-282C34?style=for-the-badge&logo=facebook&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4D4D4D?style=for-the-badge&logo=data&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Data & cloud**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+## Open to collaborate on
+
+Open-source work involving AI agents, RAG applications, vector search, data pipelines, or developer tools.
 
 ---
 
-## 💻 Data Engineering Stack (Prior Experience):
-
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![YARN](https://img.shields.io/badge/YARN-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
----
-
-<!--
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=UMESHvaidya&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=UMESHvaidya&theme=solarized-dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UMESHvaidya&theme=solarized-dark&hide_border=false&layout=compact)
-
----
--->
-
-<!-- Feel free to connect with me on LinkedIn or Twitter -->
+<p align="center">Always learning, building, and improving.</p>
