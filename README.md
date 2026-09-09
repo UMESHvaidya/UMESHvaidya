@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umesh Vaidya</h1>
 
 <p align="center">
-  <a href="https://github.com/UMESHvaidya/Leetcode_Solutions">LeetCode Solutions</a>
+  <!--a href="https://github.com/UMESHvaidya/Leetcode_Solutions">LeetCode Solutions</a -->
   ·
   Generative AI · Data Engineering · LLMOps
 </p>
